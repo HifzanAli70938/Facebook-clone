@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Facebook-clone/static/css/main.69d863d1.chunk.css",
+    "main.js": "/Facebook-clone/static/js/main.2a701d68.chunk.js",
+    "main.js.map": "/Facebook-clone/static/js/main.2a701d68.chunk.js.map",
+    "runtime-main.js": "/Facebook-clone/static/js/runtime-main.7bcacbaf.js",
+    "runtime-main.js.map": "/Facebook-clone/static/js/runtime-main.7bcacbaf.js.map",
+    "static/js/2.84f2502c.chunk.js": "/Facebook-clone/static/js/2.84f2502c.chunk.js",
+    "static/js/2.84f2502c.chunk.js.map": "/Facebook-clone/static/js/2.84f2502c.chunk.js.map",
+    "index.html": "/Facebook-clone/index.html",
+    "static/css/main.69d863d1.chunk.css.map": "/Facebook-clone/static/css/main.69d863d1.chunk.css.map",
+    "static/js/2.84f2502c.chunk.js.LICENSE.txt": "/Facebook-clone/static/js/2.84f2502c.chunk.js.LICENSE.txt",
+    "static/media/bhatti.19161463.jpg": "/Facebook-clone/static/media/bhatti.19161463.jpg",
+    "static/media/couple.239d6ec9.jpg": "/Facebook-clone/static/media/couple.239d6ec9.jpg",
+    "static/media/fish.c2460f91.jpg": "/Facebook-clone/static/media/fish.c2460f91.jpg",
+    "static/media/girl2.e0ff2e62.jpg": "/Facebook-clone/static/media/girl2.e0ff2e62.jpg",
+    "static/media/woman.aa815ab7.jpg": "/Facebook-clone/static/media/woman.aa815ab7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bcacbaf.js",
+    "static/js/2.84f2502c.chunk.js",
+    "static/css/main.69d863d1.chunk.css",
+    "static/js/main.2a701d68.chunk.js"
+  ]
+}
