@@ -1,0 +1,21 @@
+.parent_body {
+  position: absolute;
+  width: 100vw;
+  /* margin-top: 3rem; */
+  margin: 3rem auto;
+}
+.child_body {
+  display: flex;
+}
+.sidebar_body {
+  width: 25vw;
+  position: sticky;
+}
+.story_body {
+  width: 50vw;
+}
+.widges_body {
+  width: 25vw;
+  margin-left: 3rem;
+  margin-top: 0.5rem;
+}

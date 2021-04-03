@@ -1,0 +1,33 @@
+.parent_sidebar {
+  width: 25vw;
+  height: 100%;
+  overflow-y: scroll;
+  position: fixed;
+  margin-top: 5px;
+}
+.child_sidebar {
+  display: flex;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.child_sidebar:hover {
+  background-color: #e4e6eb;
+}
+.sidebar_img {
+  width: 25px;
+  height: 25px;
+}
+.sidebar_img > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.sidebar_name > p {
+  font-weight: 500;
+  font-size: 0.7rem;
+  margin-top: 0.3rem;
+  margin-left: 0.2rem;
+}
